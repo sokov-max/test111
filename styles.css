@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap');
+
+
+body {background-color: #f1f1f1;
+color: #0f141e;
+
+font-size: 16px;
+
+font-weight: normal;
+
+font-family: 'Roboto', sans-serif;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+a:active {color: blue;}
+a:visited {
+color: gray;
+}
+.avatar {
+width: 200px;
+border-radius: 28px;
+box-shadow: 4px 4px 14px rgba(0,0,0, 025);
+}
+.info  {
+color: #86898f;
+margin: 0;   
+font-size: italic;
+font-weight: bold;
+text-decoration: none;
+/*text-transform: none;*/
+
+}
+/* Box Model */
+.container {
+max-width: 750px;   
+margin: auto; 
+}
+/*.social {*/
+/*background: rgb(0, 255, 106);*/
+/* padding: 15px;
+padding: 15px 40px;
+
+padding-top: 15px;
+padding-right: 20px;
+padding-bottom: 25px;
+padding-left: 30px;
+margin: 5px;
+
+border: 5px solid red;
+border-bottom-style: dotted;
+border-top-width: 15px;
+border-right-color: blue;*/
+
+/*}*/
+/*.box-model > div {
+float: left;
+background: #000;
+height: 200px;
+border: 4px solid red;
+width: 25%;
+box-sizing: border-box;*/
+
+ 
+
+
+
+
+}
