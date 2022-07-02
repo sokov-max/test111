@@ -124,3 +124,12 @@ width: 100%;
 .table .stroka td {
     color: #86898f;
 }
+.link-list{
+    list-style: none;
+    padding: 0;
+}
+.link-list li{
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #ccc;
+}
